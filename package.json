@@ -1,0 +1,14 @@
+{
+  "name": "push-fcm",
+  "version": "1.0.0",
+  "description": "this module send mobile notification through fcm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fcm"
+  ],
+  "author": "Rohit Salaria",
+  "license": "ISC"
+}
