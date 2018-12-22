@@ -1,3 +1,1 @@
-const { FCM } = require('./lib');
-
-exports.FCM = FCM;
+module.exports = require('./lib').FCM;
