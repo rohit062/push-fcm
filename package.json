@@ -1,6 +1,6 @@
 {
   "name": "push-fcm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this module send mobile notification through fcm",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
     "fcm"
   ],
   "author": "Rohit Salaria",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rohit062/push-fcm"
+  }
 }
